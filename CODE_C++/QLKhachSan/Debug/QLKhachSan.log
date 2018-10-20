@@ -1,0 +1,15 @@
+﻿  Main.cpp
+d:\project_c++\oop_c++\qlkhachsan\phongks.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\phongks.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\date.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\listmanagerks.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ListManagerKS.cpp
+d:\project_c++\oop_c++\qlkhachsan\phongks.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\phongks.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\date.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\listmanagerks.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\listmanagerks.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  QLKhachSan.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\QLKhachSan.exe
+  QLKhachSan.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\QLKhachSan.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  bai1.cpp
+d:\project_c++\oop_c++\thoop_bai1\bai1.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  THOOP_BAI1.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\THOOP_BAI1.exe
+  THOOP_BAI1.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\THOOP_BAI1.pdb (Partial PDB)
+d:\project_c++\oop_c++\thoop_bai1\bai1.cpp(47): warning C6293: Ill-defined for-loop:  counts down from minimum.

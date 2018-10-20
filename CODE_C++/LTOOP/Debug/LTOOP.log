@@ -1,0 +1,9 @@
+﻿  TG.cpp
+d:\project_c++\oop_c++\ltoop\tg.cpp(12): error C2675: unary '+': 'Point' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\project_c++\oop_c++\ltoop\tg.cpp(12): error C2088: '+': illegal for class
+  Point.cpp
+  main.cpp
+d:\project_c++\oop_c++\ltoop\main.cpp(18): error C2146: syntax error: missing ';' before identifier 'gv1'
+  GiangVien.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\project_c++\oop_c++\vector3d\main.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Vector3D.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\Vector3D.exe
+  Vector3D.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\Vector3D.pdb (Partial PDB)

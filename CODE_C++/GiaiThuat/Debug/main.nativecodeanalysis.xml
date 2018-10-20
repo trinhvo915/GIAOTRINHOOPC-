@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\project_c++\oop_c++\giaithuat\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>76</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6293</DEFECTCODE>
+    <DESCRIPTION>Ill-defined for-loop:  counts down from minimum.</DESCRIPTION>
+    <FUNCTION>InsertSort</FUNCTION>
+    <DECORATED>?InsertSort@@YAXPAHH@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

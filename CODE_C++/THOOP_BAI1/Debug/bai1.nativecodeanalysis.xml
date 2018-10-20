@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\project_c++\oop_c++\thoop_bai1\</FILEPATH>
+      <FILENAME>bai1.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>3</COLUMN>
+    </SFA>
+    <DEFECTCODE>6293</DEFECTCODE>
+    <DESCRIPTION>Ill-defined for-loop:  counts down from minimum.</DESCRIPTION>
+    <FUNCTION>insert</FUNCTION>
+    <DECORATED>?insert@@YAPAHPAHAAHH@Z</DECORATED>
+    <FUNCLINE>44</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

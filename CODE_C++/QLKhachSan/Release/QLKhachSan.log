@@ -1,0 +1,13 @@
+﻿  Main.cpp
+d:\project_c++\oop_c++\qlkhachsan\PhongKS.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\PhongKS.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\Date.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project_c++\oop_c++\qlkhachsan\ListManagerKS.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  1 of 167 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  QLKhachSan.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Release\QLKhachSan.exe
+  QLKhachSan.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Release\QLKhachSan.pdb (Full PDB)

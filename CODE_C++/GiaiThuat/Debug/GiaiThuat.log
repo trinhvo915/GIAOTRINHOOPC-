@@ -1,0 +1,4 @@
+﻿  main.cpp
+  GiaiThuat.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\GiaiThuat.exe
+  GiaiThuat.vcxproj -> D:\Project_C++\OOP_C++\OOP_C++\Debug\GiaiThuat.pdb (Partial PDB)
+d:\project_c++\oop_c++\giaithuat\main.cpp(76): warning C6293: Ill-defined for-loop:  counts down from minimum.
